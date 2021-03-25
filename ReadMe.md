@@ -4,6 +4,7 @@ To run:
 ```
 npm install
 npm start
+npm build
 ```
 
 Website runs at `http://localhost:7000`
